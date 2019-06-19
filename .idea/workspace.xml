@@ -2,51 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73a29e68-28b6-451b-b6f7-aeea248a54c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/dist/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/dist/phase/otree.543c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/core/server/models/ThirdPartPhase.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/core/server/models/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/auth/passport.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/elfProtocol/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/elfProtocol/rpc/interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/elfProtocol/rpc/redisCall.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/elfProtocol/schema/ElfGame.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/elfProtocol/schema/ElfPlayer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/elfProtocol/schema/GameTemplate.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/elfProtocol/schema/GameUserPermission.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/elfProtocol/schema/User.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/elfProtocol/schema/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/elfProtocol/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/elfProtocol/util.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/utils/conDB.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/utils/errorPage.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/utils/fetchData.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/utils/gen32Token.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/utils/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/utils/passportMiddleware.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/utils/sessionSetMiddleware.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/utils/sessionTokenCheck.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/utils/staticPathMiddleware.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/common/utils/withLinker.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/otree/server/app.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/otree/server/config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/otree/server/utils/InitWork.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/otree/server/utils/ListMap.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/otree/server/utils/ProxyWork.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/otree/server/utils/RewriteResBuffers.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/otree/server/utils/getUrlByNamespace.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/otree/server/utils/hack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/otree/server/utils/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/otree/server/utils/otreeList.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/lib/phases/otree/server/views/previewScreenXlsx.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/settings.example.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/settings.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpc/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="34">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -107,41 +63,6 @@
               <item name="otreerpcdocker" type="b2602c69:ProjectViewProjectNode" />
               <item name="otreerpcdocker" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="otreerpcdocker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="otreerpcdocker" type="462c0819:PsiDirectoryNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="otreerpcdocker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="otreerpcdocker" type="462c0819:PsiDirectoryNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="otreerpcdocker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="otreerpcdocker" type="462c0819:PsiDirectoryNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="phases" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="otreerpcdocker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="otreerpcdocker" type="462c0819:PsiDirectoryNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="phases" type="462c0819:PsiDirectoryNode" />
-              <item name="otree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="otreerpcdocker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="otreerpcdocker" type="462c0819:PsiDirectoryNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="phases" type="462c0819:PsiDirectoryNode" />
-              <item name="otree" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -150,6 +71,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -206,8 +128,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
