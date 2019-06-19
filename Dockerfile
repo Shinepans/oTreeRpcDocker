@@ -1,6 +1,6 @@
 FROM python:3-alpine
 
-ADD ./rpc ./opt/rpc/
+ADD ./rpc ./opt/rpc
 
 RUN npm install ./rpc
 RUN npm install -g ts-node
