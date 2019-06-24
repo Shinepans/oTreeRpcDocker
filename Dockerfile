@@ -1,6 +1,6 @@
 FROM alpine
 
-ADD ./rpc ./opt/rpc
+ADD ./rpc/ opt/rpc
 
 RUN apk -U add --no-cache bash \
                           curl \
@@ -11,5 +11,5 @@ RUN npm install -g ./opt/rpc
 RUN npm install -g ts-node
 RUN npm install -g typescript
 
+WORKDIR /opt/rpc
 CMD ["ts-node", "opt/rpc/lib/phases/otree/server/app.ts"]
-
