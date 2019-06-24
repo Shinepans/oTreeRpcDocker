@@ -4,7 +4,7 @@
 import {ErrorPage} from '../../../common/utils'
 import {ThirdPartPhase} from "../../../../core/server/models"
 import {RedisCall, SendBackPlayer} from '../../../common/elfProtocol'
-import {elfSetting as settings} from '../../../../../settings'
+import {elfSetting as settings} from '../../../../../configs/settings'
 import {Request, Response} from 'express'
 import {previewScreenXlsxRoute} from '../config'
 

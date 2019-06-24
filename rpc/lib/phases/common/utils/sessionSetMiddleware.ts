@@ -2,7 +2,7 @@
 'use strict'
 
 import * as expressSession from "express-session"
-import {elfSetting as settings} from '../../../../settings'
+import {elfSetting as settings} from '../../../../configs/settings'
 
 const redis = require('redis')
 const RedisStore = require('connect-redis')(expressSession)

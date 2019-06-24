@@ -1,7 +1,7 @@
 import * as Express from 'express'
 import * as errorHandler from 'errorhandler'
 import * as path from 'path'
-import {elfSetting} from '../../../../settings'
+import {elfSetting} from '../../../../configs/settings'
 import '../../common/auth/passport'
 import {routePrefix} from '../../common/config'
 import {withLinker} from '../../common/utils/withLinker'

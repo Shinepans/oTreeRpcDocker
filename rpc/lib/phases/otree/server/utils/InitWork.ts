@@ -2,7 +2,7 @@ import {NextFunction, Request, Response} from 'express'
 import {ErrorPage} from '../../../common/utils'
 import ListMap from '../utils/ListMap'
 import {ThirdPartPhase} from '../../../../core/server/models'
-import {elfSetting as elfSetting} from '../../../../../settings'
+import {elfSetting as elfSetting} from '../../../../../configs/settings'
 import {RedisCall, SendBackPlayer} from '../../../common/elfProtocol'
 import nodeXlsx from 'node-xlsx'
 import {

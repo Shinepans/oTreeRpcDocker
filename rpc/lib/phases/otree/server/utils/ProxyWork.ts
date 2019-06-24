@@ -1,7 +1,7 @@
 'use strict'
 
 import * as httpProxy from "http-proxy-middleware"
-import {elfSetting as settings} from '../../../../../settings'
+import {elfSetting as settings} from '../../../../../configs/settings'
 import {rewriteResBuffers} from "./RewriteResBuffers"
 
 const otreePlayUrl = settings.oTreeServer

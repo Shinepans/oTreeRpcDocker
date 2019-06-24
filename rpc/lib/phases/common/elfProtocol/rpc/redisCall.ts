@@ -1,5 +1,5 @@
 import {Log} from '../util'
-import {elfSetting} from '../../../../../settings'
+import {elfSetting} from '../../../../../configs/settings'
 import * as IORedis from 'ioredis'
 
 export const redisClient = new IORedis(elfSetting.redisPort, elfSetting.redisHost)
