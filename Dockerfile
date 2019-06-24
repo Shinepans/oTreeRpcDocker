@@ -13,5 +13,5 @@ RUN npm install -g ts-node
 RUN npm install -g typescript
 
 WORKDIR /opt/rpc
-CMD ["ts-node", "opt/rpc/lib/phases/otree/server/app.ts"]
-ENTRYPOINT ["./entrypoint.sh"]
+CMD ["ts-node", "./lib/phases/otree/server/app.ts"]
+ENTRYPOINT ["/entrypoint.sh"]
