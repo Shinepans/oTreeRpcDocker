@@ -12,4 +12,5 @@ RUN npm install -g ts-node
 RUN npm install -g typescript
 
 WORKDIR /opt/rpc
+RUN npm install
 CMD ["ts-node", "./lib/phases/otree/server/app.ts"]
